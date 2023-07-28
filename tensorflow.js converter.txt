@@ -1,0 +1,1 @@
+tensorflowjs_converter --input_format=keras --weight_shard_size_bytes=25000000 "C:\Users\walau\OneDrive\Desktop\model\cnn\age_gender_model_50epochs.h5" "tf_model"
