@@ -6,7 +6,7 @@ Model is trained by using Keras and converted to Tensorflow.js
 
 Converted Model is implemented into the mobile app 
 
-Mobile app is developed using React Native
+Mobile app is developed using React Native Expo
 
 
 References:
