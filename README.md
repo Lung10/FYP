@@ -1,12 +1,18 @@
 # FYP
 
-Age and Gender Recognition mobile app using Convolutional Neural Network (CNN)
+- Train a Age and Gender recognition Keras model by using Convolutional Neural Network (CNN) algorithm  and UTKFace dataset.
+  
+- Convert the trained model into Tensorflow.js model.
 
-Model is trained by using Keras and converted to Tensorflow.js 
+- Build a mobile app by using React Native Expo which consists of these functions:
 
-Converted Model is implemented into the mobile app 
+    - User able to upload image from the smartphone.
 
-Mobile app is developed using React Native Expo
+    - User able to view the uploaded image.
+
+    - User able to view the prediction result (Age and Gender)
+
+- Implement the converted model into the mobile app.
 
 
 References:
